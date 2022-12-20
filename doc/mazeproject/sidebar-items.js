@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":[["main","Rust Final Project : Rock Paper Scissors Game Attributes: Computer will guss a random choice and it will be matched against users input"]]};
